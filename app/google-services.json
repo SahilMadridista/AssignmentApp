@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822427947076",
+    "firebase_url": "https://craft-woo.firebaseio.com",
+    "project_id": "craft-woo",
+    "storage_bucket": "craft-woo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822427947076:android:c38ae94bf71b58f1",
+        "android_client_info": {
+          "package_name": "com.example.craftwoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822427947076-1kkln70s40s9sqs8u2ou5oivf1622re3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.craftwoo",
+            "certificate_hash": "0324f856462be6d4f61b03f1941ce3596a7d0aac"
+          }
+        },
+        {
+          "client_id": "822427947076-moftnah7n00cu0ke90p31spudf6mvr1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcuzuXJ74xx33q4FpJrgVz-WO9GhKbIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822427947076-moftnah7n00cu0ke90p31spudf6mvr1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
